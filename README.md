@@ -1,7 +1,7 @@
 <h1 style="font-family: roboto;" align='center'>Crud-Angular 🚀</h1>
 
 <h1 style="font-family: roboto;" align='center'>
-  <img src='https://img.shields.io/static/v1?label=status&message=Desenvolvimento&color=ffd700&style=for-the-badge&logo=angular'></img>
+  <img src='https://img.shields.io/static/v1?label=status&message=Development&color=ffd700&style=for-the-badge&logo=angular'></img>
   <img src='https://img.shields.io/static/v1?label=CrudAngular&message=1.0v&color=4169E1&style=for-the-badge&logo=angular'></img>
   <img src='https://img.shields.io/static/v1?label=Prox&message=1.1v&color=2E8B57&style=for-the-badge&logo=angular'></img>
 </h1>
