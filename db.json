@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta BIC Azul",
-      "price": 5.89
-    },
-    {
       "id": 2,
       "name": "Iphone 6",
       "price": 5000.89
