@@ -19,10 +19,11 @@
     </ng-container>
 
     <!-- Action Column -->
+    <!-- Row(dado implicito) = product. Row representa um product -->
     <ng-container matColumnDef="action">
       <th mat-header-cell *matHeaderCellDef>Ações</th>
       <td mat-cell *matCellDef="let row">
-        <a routerLink='' class="edit">
+        <a routerLink='/products/update/{{row.id}}' class="edit">
           <i class='material-icons'>
             edit
           </i>

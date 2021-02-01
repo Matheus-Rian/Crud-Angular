@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC Azul",
       "price": 5.89
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "name": "Celular",
-      "price": 700.00,
+      "price": 700,
       "id": 4
     }
   ]
