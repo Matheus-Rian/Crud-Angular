@@ -43,8 +43,8 @@ $ ng serve
 
 - [X] Create Product
 - [X] Consult Product
-- [ ] Update Product
-- [ ] Delete Product
+- [X] Update Product
+- [X] Delete Product
 
 #### :construction: More features coming soon ...
 
