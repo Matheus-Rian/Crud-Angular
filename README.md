@@ -27,10 +27,10 @@ In addition, it is good to have an editor to work with the code as [VSCode](http
 ```bash
 
 # Clone the project:
-$ git clone https://github.com/Matheus-Rian/crud-angular.git
+$ git clone https://github.com/Matheus-Rian/Crud-Angular.git
 
 # Enter the directory:
-$ cd crud-angular
+$ cd Crud-Angular
   
 # Installing dependencies:
 $ npm i
